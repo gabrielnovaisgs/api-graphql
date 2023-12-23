@@ -41,6 +41,20 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "rODRIGO",
+      "ativo": false,
+      "role": 2,
+      "createdAt": "2023-09-08T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "nome": "Roberta",
+      "ativo": false,
+      "role": 2,
+      "createdAt": "2023-09-08T00:00:00.000Z",
+      "id": 9
     }
   ],
   "roles": [
